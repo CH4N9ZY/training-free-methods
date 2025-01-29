@@ -59,6 +59,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**LoRA-X: Bridging Foundation Models with Training-Free Cross-Model Adaptation.**<br>
+*Farzad Farhadzadeh, Debasmit Das, Shubhankar Borse, Fatih Porikli.*<br>
+ICLR 2025. [[PDF](https://arxiv.org/abs/2501.16559)]<br>
+
 **AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation.**<br>
 *Boyuan Cao, Jiaxin Ye, Yujie Wei, Hongming Shan.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2410.06055)] [[Code]](https://github.com/kmittle/AP-LDM)<br>
