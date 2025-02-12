@@ -11,7 +11,7 @@ arxiv 2024. [[PDF](https://arxiv.org/abs/2408.08822)]<br>
 
 **ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models.**<br>
 *Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Xiaoshuai Sun, Rongrong Ji.*<br>
-arxiv 2024. [[PDF](https://arxiv.org/abs/2407.21534)] [[Code]](https://github.com/mrwu-mac/ControlMLLM)<br>
+NeurIPS 2024. [[PDF](https://arxiv.org/abs/2407.21534)] [[Code]](https://github.com/mrwu-mac/ControlMLLM)<br>
 
 **Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs.**<br>
 *Shi Liu, Kecheng Zheng, Wei Chen.*<br>
