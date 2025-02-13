@@ -185,6 +185,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Editing
 
+**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion.**<br>
+*Yujie Zhou, Jiazi Bu, Pengyang Ling, Pan Zhang, Tong Wu, Qidong Huang, Jinsong Li, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Anyi Rao, Jiaqi Wang, Li Niu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2502.08590)] [[Project](https://bujiazi.github.io/light-a-video.github.io/)] [[Code]](https://github.com/bcmi/Light-A-Video/)<br>
+
 **Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices.**<br>
 *Nathaniel Cohen, Vladimir Kulikov, Matan Kleiner, Inbar Huberman-Spiegelglas, Tomer Michaeli.*<br>
 ICML 2024. [[PDF](https://arxiv.org/pdf/2405.12211)] [[Project](https://matankleiner.github.io/slicedit/)] [[Code]](https://github.com/fallenshock/Slicedit)<br>
