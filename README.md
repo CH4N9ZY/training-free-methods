@@ -121,7 +121,7 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2311.17528.pdf)] [[Project]](https://hid
 
 **Training-Free Consistent Text-to-Image Generation.**<br>
 *Yoad Tewel, Omri Kaduri, Rinon Gal, Yoni Kasten, Lior Wolf, Gal Chechik, Yuval Atzmon.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2402.03286.pdf)] [[Project]](https://consistory-paper.github.io/)<br>
+SIGGRAPH 2024. [[PDF](https://arxiv.org/pdf/2402.03286.pdf)] [[Project]](https://research.nvidia.com/labs/par/consistory/)<br>
 
 **FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis.**<br>
 *Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li.*<br>
