@@ -127,6 +127,10 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2402.03286.pdf)] [[Project]](https://co
 *Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li.*<br>
 ECCV 2024. [[PDF](https://arxiv.org/pdf/2403.12963.pdf)] [[Code]](https://github.com/LeonHLJ/FouriScale)<br>
 
+**Training-Free Layout Control with Cross-Attention Guidance.**<br>
+*Minghao Chen, Iro Laina, Andrea Vedaldi.*<br>
+WACV 2024. [[PDF](https://arxiv.org/abs/2304.03373)]  [[Project]](https://silent-chen.github.io/layout-guidance/) [[Code]](https://github.com/silent-chen/layout-guidance)<br>
+
 ## Image Manipulation
 
 **360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation.**<br>
