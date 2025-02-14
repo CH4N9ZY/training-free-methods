@@ -131,6 +131,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2403.12963.pdf)] [[Code]](https://github
 *Minghao Chen, Iro Laina, Andrea Vedaldi.*<br>
 WACV 2024. [[PDF](https://arxiv.org/abs/2304.03373)]  [[Project]](https://silent-chen.github.io/layout-guidance/) [[Code]](https://github.com/silent-chen/layout-guidance)<br>
 
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion.**<br>
+*Jinheng Xie, Yuexiang Li, Yawen Huang, Haozhe Liu, Wentian Zhang, Yefeng Zheng, Mike Zheng Shou.*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com/showlab/BoxDiff)<br>
+
 ## Image Manipulation
 
 **360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation.**<br>
