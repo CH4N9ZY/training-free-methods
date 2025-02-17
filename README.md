@@ -53,6 +53,10 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2405.17401)] [[Project](https://rb-modu
 *Yanqi Ge, Jiaqi Liu, Qingnan Fan, Xi Jiang, Ye Huang, Shuai Qin, Hong Gu, Wen Li, Lixin Duan.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06835.pdf)]<br>
 
+**Cross-Image Attention for Zero-Shot Appearance Transfer.**<br>
+*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.*<br>
+SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] [[Project](https://garibida.github.io/cross-image-attention/)] [[Code]](https://github.com/garibida/cross-image-attention)<br>
+
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer.**<br>
 *Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwoogit.github.io/StyleID_site/)] [[Code]](https://github.com/jiwoogit/StyleID)<br>
