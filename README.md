@@ -63,6 +63,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**MagicGeo: Training-Free Text-Guided Geometric Diagram Generation.**<br>
+*Junxiao Wang, Ting Zhang, Heng Yu, Jingdong Wang, Hua Huang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2502.13855)]<br>
+
 **LoRA-X: Bridging Foundation Models with Training-Free Cross-Model Adaptation.**<br>
 *Farzad Farhadzadeh, Debasmit Das, Shubhankar Borse, Fatih Porikli.*<br>
 ICLR 2025. [[PDF](https://arxiv.org/abs/2501.16559)]<br>
