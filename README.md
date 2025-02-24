@@ -63,6 +63,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**FlipConcept: Tuning-Free Multi-Concept Personalization for Text-to-Image Generation.**<br>
+*Young Beom Woo, Sun Eung Kim.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2502.15203)]<br>
+
 **MagicGeo: Training-Free Text-Guided Geometric Diagram Generation.**<br>
 *Junxiao Wang, Ting Zhang, Heng Yu, Jingdong Wang, Hua Huang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2502.13855)]<br>
