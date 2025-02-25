@@ -149,9 +149,13 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**KV-Edit: Training-Free Image Editing for Precise Background Preservation.**<br>
+*Tianrui Zhu, Shiyi Zhang, Jiawei Shao, Yansong Tang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2409.08397)] [[Project](https://xilluill.github.io/projectpages/KV-Edit/)] [[Code]](https://github.com/Xilluill/KV-Edit)<br>
+
 **360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation.**<br>
 *Hai Wang, Jing-Hao Xue.*<br>
-WACV 2025. [[PDF](https://arxiv.org/abs/2409.08397)] [[Project](https://littlewhitesea.github.io/360PanT.github.io/)] [[Code]](https://github.com/littlewhitesea/360PanT)<br>
+WACV 2025. [[PDF](https://arxiv.org/abs/2502.17363)] [[Project](https://littlewhitesea.github.io/360PanT.github.io/)] [[Code]](https://github.com/littlewhitesea/360PanT)<br>
 
 **OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model.**<br>
 *Runyi Li, Xuhan Sheng, Weiqi Li, Jian Zhang.*<br>
