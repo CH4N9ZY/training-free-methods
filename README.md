@@ -25,6 +25,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Style Transfer
 
+**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs.**<br>
+*Ziheng Ouyang, Zhen Li, Qibin Hou.*<br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.18461)]<br>
+
 **Artist: Aesthetically Controllable Text-Driven Stylization without Training.**<br>
 *Ruixiang Jiang, Changwen Chen.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.15842)] [[Project](https://diffusionartist.github.io/)] [[Code]](https://github.com/songrise/artist)<br>
