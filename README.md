@@ -67,6 +67,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**ToLo: A Two-Stage, Training-Free Layout-To-Image Generation Framework For High-Overlap Layouts.**<br>
+*Linhao Huang, Jing Yu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.01667)] [[Code]](https://github.com/misaka12435/ToLo)<br>
+
 **FlipConcept: Tuning-Free Multi-Concept Personalization for Text-to-Image Generation.**<br>
 *Young Beom Woo, Sun Eung Kim.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2502.15203)]<br>
