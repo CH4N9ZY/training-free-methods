@@ -25,6 +25,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Style Transfer
 
+**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models.**<br>
+*Bo Huang, Wenlun Xu, Qizhuo Han, Haodong Jing, Ying Li.*<br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.07307)]<br>
+
 **K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs.**<br>
 *Ziheng Ouyang, Zhen Li, Qibin Hou.*<br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.18461)]<br>
