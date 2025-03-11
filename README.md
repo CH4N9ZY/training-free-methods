@@ -157,6 +157,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model.**<br>
+*Xiang Gao, Shuai Yang, Jiaying Liu.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2503.06186)]<br>
+
 **KV-Edit: Training-Free Image Editing for Precise Background Preservation.**<br>
 *Tianrui Zhu, Shiyi Zhang, Jiawei Shao, Yansong Tang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2409.08397)] [[Project](https://xilluill.github.io/projectpages/KV-Edit/)] [[Code]](https://github.com/Xilluill/KV-Edit)<br>
