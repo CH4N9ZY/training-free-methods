@@ -161,6 +161,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**NullFace: Training-Free Localized Face Anonymization.**<br>
+*Han-Wei Kung, Tuomas Varanka, Terence Sim, Nicu Sebe.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.08478)] [[Code](https://github.com/hanweikung/nullface)]<br>
+
 **PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model.**<br>
 *Xiang Gao, Shuai Yang, Jiaying Liu.*<br>
 CVPR 2025. [[PDF](https://arxiv.org/abs/2503.06186)]<br>
