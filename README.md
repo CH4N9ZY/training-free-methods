@@ -225,6 +225,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Editing
 
+**RASA: Replace Anyone, Say Anything -- A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing.**<br>
+*Tianrui Pan, Lin Liu, Jie Liu, Xiaopeng Zhang, Jie Tang, Gangshan Wu, Qi Tian.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.11571)] [[Project](https://alice01010101.github.io/RASA/)]<br>
+
 **Light-A-Video: Training-free Video Relighting via Progressive Light Fusion.**<br>
 *Yujie Zhou, Jiazi Bu, Pengyang Ling, Pan Zhang, Tong Wu, Qidong Huang, Jinsong Li, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Anyi Rao, Jiaqi Wang, Li Niu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2502.08590)] [[Project](https://bujiazi.github.io/light-a-video.github.io/)] [[Code]](https://github.com/bcmi/Light-A-Video/)<br>
