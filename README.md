@@ -71,6 +71,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**Personalize Anything for Free with Diffusion Transformer.**<br>
+*Haoran Feng, Zehuan Huang, Lin Li, Hairong Lv, Lu Sheng.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.12590)] [[Project]](https://fenghora.github.io/Personalize-Anything-Page/) [[Code]](https://github.com/fenghora/personalize-anything)<br>
+
 **Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation.**<br>
 *Byung Hyun Lee, Sungjin Lim, Se Young Chun.*<br>
 CVPR 2025. [[PDF](https://arxiv.org/abs/2503.12356)]<br>
