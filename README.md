@@ -71,6 +71,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**EditID: Training-Free Editable ID Customization for Text-to-Image Generation.**<br>
+*Guandong Li, Zhaobin Chu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.12526)]<br>
+
 **ToLo: A Two-Stage, Training-Free Layout-To-Image Generation Framework For High-Overlap Layouts.**<br>
 *Linhao Huang, Jing Yu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.01667)] [[Code]](https://github.com/misaka12435/ToLo)<br>
