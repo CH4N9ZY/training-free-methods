@@ -71,6 +71,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation.**<br>
+*Byung Hyun Lee, Sungjin Lim, Se Young Chun.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2503.12356)]<br>
+
 **EditID: Training-Free Editable ID Customization for Text-to-Image Generation.**<br>
 *Guandong Li, Zhaobin Chu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.12526)]<br>
