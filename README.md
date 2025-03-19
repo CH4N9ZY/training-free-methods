@@ -235,6 +235,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Video Generation
 
+**MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation.**<br>
+*Hongyu Zhang, Yufan Deng, Shenghai Yuan, Peng Jin, Zesen Cheng, Yian Zhao, Chang Liu, Jie Chen.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.14428)] [[Project](https://hong-yu-zhang.github.io/MagicComp-Page/)] [[Code]](https://github.com/Hong-yu-Zhang/MagicComp)<br>
+
 **MotionMaster: Training-free Camera Motion Transfer For Video Generation.**<br>
 *Teng Hu, Jiangning Zhang, Ran Yi, Yating Wang, Hongrui Huang, Jieyu Weng, Yabiao Wang, Lizhuang Ma.*<br>
 ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.com/sjtuplayer/MotionMaster)<br>
