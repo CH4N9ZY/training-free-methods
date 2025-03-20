@@ -75,6 +75,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**TF-TI2I: Training-Free Text-and-Image-to-Image Generation via Multi-Modal Implicit-Context Learning in Text-to-Image Models.**<br>
+*Teng-Fang Hsiao, Bo-Kai Ruan, Yi-Lun Wu, Tzu-Ling Lin, Hong-Han Shuai.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.15283)] [[Project]](https://bluedyee.github.io/TF-TI2I_page/) [[Code]](https://github.com/BlueDyee/TF-TI2I)<br>
+
 **Personalize Anything for Free with Diffusion Transformer.**<br>
 *Haoran Feng, Zehuan Huang, Lin Li, Hairong Lv, Lu Sheng.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.12590)] [[Project]](https://fenghora.github.io/Personalize-Anything-Page/) [[Code]](https://github.com/fenghora/personalize-anything)<br>
