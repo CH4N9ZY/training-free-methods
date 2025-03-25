@@ -185,6 +185,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**OmnimatteZero: Training-free Real-time Omnimatte with Pre-trained Video Diffusion Models.**<br>
+*Dvir Samuel, Matan Levy, Nir Darshan, Gal Chechik, Rami Ben-Ari.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.18033)]<br>
+
 **FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing.**<br>
 *Tianyi Wei, Yifan Zhou, Dongdong Chen, Xingang Pan.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.16153)] [[Project](https://wtybest.github.io/projects/FreeFlux/)] [[Code]](https://github.com/wtybest/FreeFlux)<br>
