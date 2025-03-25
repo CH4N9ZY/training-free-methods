@@ -3,6 +3,10 @@ This is a repository to collect recent training-free algorithms relevant to imag
 
 ## Model Acceleration
 
+**Training-free Diffusion Acceleration with Bottleneck Sampling.**<br>
+*Ye Tian, Xin Xia, Yuxi Ren, Shanchuan Lin, Xing Wang, Xuefeng Xiao, Yunhai Tong, Ling Yang, Bin Cui.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.18940)] [[Project](https://tyfeld.github.io/BottleneckSampling.github.io/)] [[Code]](https://github.com/tyfeld/Bottleneck-Sampling)<br>
+
 **PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future.**<br>
 *Guangyi Wang, Yuren Cai, Lijiang Li, Wei Peng, Songzhi Su.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2408.08822)]<br>
