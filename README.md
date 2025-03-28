@@ -226,8 +226,8 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2408.03637)] [[Project](https://tkpham
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.02747v2)] [[Code](https://github.com/HaozheLiu-ST/T-GATE)]<br>
 
 **DiffUHaul: A Training-Free Method for Object Dragging in Images.**<br>
-*Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.01594)] [[Project](https://omriavrahami.com/diffuhaul/)]<br>
+*Omri Avrahami, Rinon Gal, Gal Chechik, Ohad Fried, Dani Lischinski, Arash Vahdat, Weili Nie.*<br>
+Siggraph Asia 2024. [[PDF](https://arxiv.org/pdf/2406.01594)] [[Project](https://omriavrahami.com/diffuhaul/)]<br>
 
 **Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model.**<br>
 *Zheng Gu, Shiyuan Yang, Jing Liao, Jing Huo, Yang Gao.*<br>
