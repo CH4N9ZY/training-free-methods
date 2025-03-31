@@ -255,6 +255,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Video Generation
 
+**Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model.**<br>
+*Jangho Park, Taesung Kwon, Jong Chul Ye.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.22622)] [[Project](https://zero4dvid.github.io/)]<br>
+
 **MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation.**<br>
 *Hongyu Zhang, Yufan Deng, Shenghai Yuan, Peng Jin, Zesen Cheng, Yian Zhao, Chang Liu, Jie Chen.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.14428)] [[Project](https://hong-yu-zhang.github.io/MagicComp-Page/)] [[Code]](https://github.com/Hong-yu-Zhang/MagicComp)<br>
