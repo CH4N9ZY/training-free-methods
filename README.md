@@ -79,6 +79,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis.**<br>
+*Woojung Han, Yeonkyung Lee, Chanyoung Kim, Kwanghyun Park, Seong Jae Hwang.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2503.22168)] [[Project]](https://micv-yonsei.github.io/storm2025/) [[Code]](https://github.com/MICV-yonsei/STORM)<br>
+
 **TF-TI2I: Training-Free Text-and-Image-to-Image Generation via Multi-Modal Implicit-Context Learning in Text-to-Image Models.**<br>
 *Teng-Fang Hsiao, Bo-Kai Ruan, Yi-Lun Wu, Tzu-Ling Lin, Hong-Han Shuai.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.15283)] [[Project]](https://bluedyee.github.io/TF-TI2I_page/) [[Code]](https://github.com/BlueDyee/TF-TI2I)<br>
