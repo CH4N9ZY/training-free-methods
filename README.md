@@ -189,6 +189,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Training-Free Text-Guided Image Editing with Visual Autoregressive Model.**<br>
+*Yufei Wang, Lanqing Guo, Zhihao Li, Jiaxing Huang, Pichao Wang, Bihan Wen, Jian Wang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.23897)] [[Code]](https://github.com/wyf0912/AREdit)<br>
+
 **OmnimatteZero: Training-free Real-time Omnimatte with Pre-trained Video Diffusion Models.**<br>
 *Dvir Samuel, Matan Levy, Nir Darshan, Gal Chechik, Rami Ben-Ari.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.18033)]<br>
