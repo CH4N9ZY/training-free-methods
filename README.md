@@ -263,6 +263,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Video Generation
 
+**Every Painting Awakened: A Training-free Framework for Painting-to-Animation Generation.**<br>
+*Lingyu Liu, Yaxiong Wang, Li Zhu, Zhedong Zheng.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.23736)] [[Project](https://painting-animation.github.io/animation/)]<br>
+
 **On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices.**<br>
 *Bosung Kim, Kyuhwan Lee, Isu Jeong, Jungmin Cheon, Yeojin Lee, Seulki Lee.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.23796)] [[Code](https://github.com/eai-lab/On-device-Sora)]<br>
