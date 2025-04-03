@@ -1,10 +1,16 @@
 # training-free-methods
-This is a repository to collect recent training-free algorithms relevant to image generation and manipulation that can run on a single GPU with no more than 24GB of memory.
+This repository collects recent training-free algorithms relevant to visual generation and manipulation, with a focus on methods that can be run on a single GPU (ideally with ≤24GB memory). Hope it could be beneficial for students and researchers with limited resources.
+
+If you find any missed resources or errors, feel free to open an issue or make a pull request.
+
 
 ## 📚 Table of Contents
 - [Image Generation](#image-generation)
 - [Image Manipulation](#image-manipulation)
 - [Style Transfer](#style-transfer)
+- [Material Transfer](#material-transfer)
+- [Video Generation](#video-generation)
+- [Video Editing](#video-editing)
 
 ## Image Generation
 
@@ -294,28 +300,3 @@ ICLR 2024. [[PDF](https://arxiv.org/pdf/2310.05922.pdf)] [[Project](https://flat
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing.**<br>
 *Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel.*<br>
 ICLR 2024. [[PDF](https://arxiv.org/pdf/2307.10373.pdf)] [[Project](https://diffusion-tokenflow.github.io/)] [[Code]](https://github.com/omerbt/TokenFlow)<br>
-
-
-## Model Acceleration
-
-**Training-free Diffusion Acceleration with Bottleneck Sampling.**<br>
-*Ye Tian, Xin Xia, Yuxi Ren, Shanchuan Lin, Xing Wang, Xuefeng Xiao, Yunhai Tong, Ling Yang, Bin Cui.*<br>
-arxiv 2025. [[PDF](https://arxiv.org/abs/2503.18940)] [[Project](https://tyfeld.github.io/BottleneckSampling.github.io/)] [[Code]](https://github.com/tyfeld/Bottleneck-Sampling)<br>
-
-**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future.**<br>
-*Guangyi Wang, Yuren Cai, Lijiang Li, Wei Peng, Songzhi Su.*<br>
-arxiv 2024. [[PDF](https://arxiv.org/abs/2408.08822)]<br>
-
-## Multimodal Large Language Models
-
-**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models.**<br>
-*Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Xiaoshuai Sun, Rongrong Ji.*<br>
-NeurIPS 2024. [[PDF](https://arxiv.org/abs/2407.21534)] [[Code]](https://github.com/mrwu-mac/ControlMLLM)<br>
-
-**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs.**<br>
-*Shi Liu, Kecheng Zheng, Wei Chen.*<br>
-ECCV 2024. [[PDF](https://arxiv.org/abs/2407.21771)] [[Project](https://lalbj.github.io/projects/PAI/)] [[Code]](https://github.com/LALBJ/PAI)<br>
-
-
-
-
