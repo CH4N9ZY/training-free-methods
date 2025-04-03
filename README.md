@@ -1,5 +1,5 @@
 # training-free-methods
-This repository collects recent training-free algorithms relevant to visual generation and manipulation, with a focus on methods that can be run on a single GPU (ideally with ≤24GB memory). Hope it could be beneficial for students and researchers with limited resources.
+This repository collects recent training-free algorithms relevant to visual generation and manipulation, with a focus on methods that can be run on a single GPU (ideally with ≤24GB memory). Hope it could be beneficial for students and researchers with limited computational resources.
 
 If you find any missed resources or errors, feel free to open an issue or make a pull request.
 
