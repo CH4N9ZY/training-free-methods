@@ -1,6 +1,11 @@
 # training-free-methods
 This is a repository to collect recent training-free algorithms relevant to image generation and manipulation that can run on a single GPU with no more than 24GB of memory.
 
+## 📚 Table of Contents
+- [Image Generation](#image-generation)
+- [Image Manipulation](#image-manipulation)
+- [Style Transfer](#style-transfer)
+
 ## Image Generation
 
 **Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis.**<br>
