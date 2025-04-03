@@ -79,6 +79,10 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwo
 
 ## Image Generation
 
+**Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis.**<br>
+*Zixuan Wang, Duo Peng, Feng Chen, Yuwei Yang, Yinjie Lei.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2504.01515)] [[Code]](https://github.com/ZixuanWang0525/DADG)<br>
+
 **Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis.**<br>
 *Woojung Han, Yeonkyung Lee, Chanyoung Kim, Kwanghyun Park, Seong Jae Hwang.*<br>
 CVPR 2025. [[PDF](https://arxiv.org/abs/2503.22168)] [[Project]](https://micv-yonsei.github.io/storm2025/) [[Code]](https://github.com/MICV-yonsei/STORM)<br>
