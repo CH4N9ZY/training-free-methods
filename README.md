@@ -1,82 +1,6 @@
 # training-free-methods
 This is a repository to collect recent training-free algorithms relevant to image generation and manipulation that can run on a single GPU with no more than 24GB of memory.
 
-## Model Acceleration
-
-**Training-free Diffusion Acceleration with Bottleneck Sampling.**<br>
-*Ye Tian, Xin Xia, Yuxi Ren, Shanchuan Lin, Xing Wang, Xuefeng Xiao, Yunhai Tong, Ling Yang, Bin Cui.*<br>
-arxiv 2025. [[PDF](https://arxiv.org/abs/2503.18940)] [[Project](https://tyfeld.github.io/BottleneckSampling.github.io/)] [[Code]](https://github.com/tyfeld/Bottleneck-Sampling)<br>
-
-**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future.**<br>
-*Guangyi Wang, Yuren Cai, Lijiang Li, Wei Peng, Songzhi Su.*<br>
-arxiv 2024. [[PDF](https://arxiv.org/abs/2408.08822)]<br>
-
-## Multimodal Large Language Models
-
-**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models.**<br>
-*Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Xiaoshuai Sun, Rongrong Ji.*<br>
-NeurIPS 2024. [[PDF](https://arxiv.org/abs/2407.21534)] [[Code]](https://github.com/mrwu-mac/ControlMLLM)<br>
-
-**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs.**<br>
-*Shi Liu, Kecheng Zheng, Wei Chen.*<br>
-ECCV 2024. [[PDF](https://arxiv.org/abs/2407.21771)] [[Project](https://lalbj.github.io/projects/PAI/)] [[Code]](https://github.com/LALBJ/PAI)<br>
-
-## Material Transfer
-
-**ZeST: Zero-Shot Material Transfer from a Single Image.**<br>
-*Ta-Ying Cheng, Prafull Sharma, Andrew Markham, Niki Trigoni, Varun Jampani.*<br>
-ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchengab.github.io/zest/)] [[Code]](https://github.com/ttchengab/zest_code)<br>
-
-## Style Transfer
-
-**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation.**<br>
-*Jiang Qin, Senmao Li, Alexandra Gomez-Villa, Shiqi Yang, Yaxing Wang, Kai Wang, Joost van de Weijer.*<br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2503.14275)]<br>
-
-**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models.**<br>
-*Bo Huang, Wenlun Xu, Qizhuo Han, Haodong Jing, Ying Li.*<br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2503.07307)]<br>
-
-**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs.**<br>
-*Ziheng Ouyang, Zhen Li, Qibin Hou.*<br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2502.18461)]<br>
-
-**Artist: Aesthetically Controllable Text-Driven Stylization without Training.**<br>
-*Ruixiang Jiang, Changwen Chen.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.15842)] [[Project](https://diffusionartist.github.io/)] [[Code]](https://github.com/songrise/artist)<br>
-
-**Visual Style Prompting with Swapping Self-Attention.**<br>
-*Jaeseok Jeong, Junho Kim, Yunjey Choi, Gayoung Lee, Youngjung Uh.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2402.12974)] [[Project](https://curryjung.github.io/VisualStylePrompt/)] [[Code]](https://github.com/naver-ai/Visual-Style-Prompting)<br>
-
-**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models.**<br>
-*Feihong He, Gang Li, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzhang Li.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2401.15636)] [[Project](https://freestylefreelunch.github.io/)] [[Code]](https://github.com/FreeStyleFreeLunch/FreeStyle)<br>
-
-**Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models.**<br>
-*Sooyeon Go, Kyungmook Choi, Minjung Shin, Youngjung Uh.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.07008)] [[Project](https://sooyeon-go.github.io/eye_for_an_eye/)] [[Code]](https://github.com/sooyeon-go/eye_for_an_eye)<br>
-
-**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance.**<br>
-*Kuan Heng Lin, Sicheng Mo, Ben Klingher, Fangzhou Mu, Bolei Zhou.*<br>
-NeurIPS 2024. [[PDF](https://arxiv.org/pdf/2406.07540)] [[Project](https://genforce.github.io/ctrl-x/)] [[Code]](https://github.com/genforce/ctrl-x)<br>
-
-**RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control.**<br>
-*Litu Rout, Yujia Chen, Nataniel Ruiz, Abhishek Kumar, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2405.17401)] [[Project](https://rb-modulation.github.io/)] [[Code]](https://github.com/LituRout/RB-Modulation)<br>
-
-**Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer.**<br>
-*Yanqi Ge, Jiaqi Liu, Qingnan Fan, Xi Jiang, Ye Huang, Shuai Qin, Hong Gu, Wen Li, Lixin Duan.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06835.pdf)]<br>
-
-**Cross-Image Attention for Zero-Shot Appearance Transfer.**<br>
-*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.*<br>
-SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] [[Project](https://garibida.github.io/cross-image-attention/)] [[Code]](https://github.com/garibida/cross-image-attention)<br>
-
-**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer.**<br>
-*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.*<br>
-CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwoogit.github.io/StyleID_site/)] [[Code]](https://github.com/jiwoogit/StyleID)<br>
-
 ## Image Generation
 
 **Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis.**<br>
@@ -265,6 +189,63 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.07536.pdf)] [[Project](https://genf
 *Narek Tumanyan, Michal Geyer, Shai Bagon, Tali Dekel.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-diffusion.github.io/)] [[Code]](https://github.com/MichalGeyer/plug-and-play)<br>
 
+## Style Transfer
+
+**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation.**<br>
+*Jiang Qin, Senmao Li, Alexandra Gomez-Villa, Shiqi Yang, Yaxing Wang, Kai Wang, Joost van de Weijer.*<br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.14275)]<br>
+
+**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models.**<br>
+*Bo Huang, Wenlun Xu, Qizhuo Han, Haodong Jing, Ying Li.*<br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.07307)]<br>
+
+**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs.**<br>
+*Ziheng Ouyang, Zhen Li, Qibin Hou.*<br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.18461)]<br>
+
+**Artist: Aesthetically Controllable Text-Driven Stylization without Training.**<br>
+*Ruixiang Jiang, Changwen Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.15842)] [[Project](https://diffusionartist.github.io/)] [[Code]](https://github.com/songrise/artist)<br>
+
+**Visual Style Prompting with Swapping Self-Attention.**<br>
+*Jaeseok Jeong, Junho Kim, Yunjey Choi, Gayoung Lee, Youngjung Uh.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2402.12974)] [[Project](https://curryjung.github.io/VisualStylePrompt/)] [[Code]](https://github.com/naver-ai/Visual-Style-Prompting)<br>
+
+**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models.**<br>
+*Feihong He, Gang Li, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzhang Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2401.15636)] [[Project](https://freestylefreelunch.github.io/)] [[Code]](https://github.com/FreeStyleFreeLunch/FreeStyle)<br>
+
+**Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models.**<br>
+*Sooyeon Go, Kyungmook Choi, Minjung Shin, Youngjung Uh.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2406.07008)] [[Project](https://sooyeon-go.github.io/eye_for_an_eye/)] [[Code]](https://github.com/sooyeon-go/eye_for_an_eye)<br>
+
+**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance.**<br>
+*Kuan Heng Lin, Sicheng Mo, Ben Klingher, Fangzhou Mu, Bolei Zhou.*<br>
+NeurIPS 2024. [[PDF](https://arxiv.org/pdf/2406.07540)] [[Project](https://genforce.github.io/ctrl-x/)] [[Code]](https://github.com/genforce/ctrl-x)<br>
+
+**RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control.**<br>
+*Litu Rout, Yujia Chen, Nataniel Ruiz, Abhishek Kumar, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2405.17401)] [[Project](https://rb-modulation.github.io/)] [[Code]](https://github.com/LituRout/RB-Modulation)<br>
+
+**Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer.**<br>
+*Yanqi Ge, Jiaqi Liu, Qingnan Fan, Xi Jiang, Ye Huang, Shuai Qin, Hong Gu, Wen Li, Lixin Duan.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2404.06835.pdf)]<br>
+
+**Cross-Image Attention for Zero-Shot Appearance Transfer.**<br>
+*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.*<br>
+SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] [[Project](https://garibida.github.io/cross-image-attention/)] [[Code]](https://github.com/garibida/cross-image-attention)<br>
+
+**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer.**<br>
+*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwoogit.github.io/StyleID_site/)] [[Code]](https://github.com/jiwoogit/StyleID)<br>
+
+## Material Transfer
+
+**ZeST: Zero-Shot Material Transfer from a Single Image.**<br>
+*Ta-Ying Cheng, Prafull Sharma, Andrew Markham, Niki Trigoni, Varun Jampani.*<br>
+ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchengab.github.io/zest/)] [[Code]](https://github.com/ttchengab/zest_code)<br>
+
+
 ## Video Generation
 
 **Every Painting Awakened: A Training-free Framework for Painting-to-Animation Generation.**<br>
@@ -308,6 +289,27 @@ ICLR 2024. [[PDF](https://arxiv.org/pdf/2310.05922.pdf)] [[Project](https://flat
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing.**<br>
 *Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel.*<br>
 ICLR 2024. [[PDF](https://arxiv.org/pdf/2307.10373.pdf)] [[Project](https://diffusion-tokenflow.github.io/)] [[Code]](https://github.com/omerbt/TokenFlow)<br>
+
+
+## Model Acceleration
+
+**Training-free Diffusion Acceleration with Bottleneck Sampling.**<br>
+*Ye Tian, Xin Xia, Yuxi Ren, Shanchuan Lin, Xing Wang, Xuefeng Xiao, Yunhai Tong, Ling Yang, Bin Cui.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.18940)] [[Project](https://tyfeld.github.io/BottleneckSampling.github.io/)] [[Code]](https://github.com/tyfeld/Bottleneck-Sampling)<br>
+
+**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future.**<br>
+*Guangyi Wang, Yuren Cai, Lijiang Li, Wei Peng, Songzhi Su.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2408.08822)]<br>
+
+## Multimodal Large Language Models
+
+**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models.**<br>
+*Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Xiaoshuai Sun, Rongrong Ji.*<br>
+NeurIPS 2024. [[PDF](https://arxiv.org/abs/2407.21534)] [[Code]](https://github.com/mrwu-mac/ControlMLLM)<br>
+
+**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs.**<br>
+*Shi Liu, Kecheng Zheng, Wei Chen.*<br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.21771)] [[Project](https://lalbj.github.io/projects/PAI/)] [[Code]](https://github.com/LALBJ/PAI)<br>
 
 
 
