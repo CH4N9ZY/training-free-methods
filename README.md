@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling.**<br>
+*Jaskirat Singh, Junshen Kevin Chen, Jonas Kohler, Michael Cohen.*<br>
+ICLR 2025. [[PDF](https://arxiv.org/abs/2504.05800)]<br>
+
 **A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model.**<br>
 *Jihun Park, Jongmin Gim, Kyoungmin Lee, Minseok Oh, Minwoo Choi, Jaeyeul Kim, Woo Chool Park, Sunghoon Im.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2504.06144)]<br>
