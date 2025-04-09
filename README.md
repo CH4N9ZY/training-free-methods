@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance.**<br>
+*Jiazi Bu, Pengyang Ling, Yujie Zhou, Pan Zhang, Tong Wu, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Dahua Lin, Jiaqi Wang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2504.06232)] [[Code]](https://github.com/Bujiazi/HiFlow)<br>
+
 **Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis.**<br>
 *Zixuan Wang, Duo Peng, Feng Chen, Yuwei Yang, Yinjie Lei.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2504.01515)] [[Code]](https://github.com/ZixuanWang0525/DADG)<br>
