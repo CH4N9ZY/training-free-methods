@@ -140,6 +140,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model.**<br>
+*Qi Mao, Lan Chen, Yuchao Gu, Mike Zheng Shou, Ming-Hsuan Yang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2504.05594)] [[Code]](https://github.com/CUC-MIPG/UnifyEdit)<br>
+
 **Training-Free Text-Guided Image Editing with Visual Autoregressive Model.**<br>
 *Yufei Wang, Lanqing Guo, Zhihao Li, Jiaxing Huang, Pichao Wang, Bihan Wen, Jian Wang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.23897)] [[Code]](https://github.com/wyf0912/AREdit)<br>
