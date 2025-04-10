@@ -275,6 +275,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation.**<br>
+*Diljeet Jagpal, Xi Chen, Vinay P. Namboodiri.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2504.06861)] [[Project](https://djagpal02.github.io/EIDT-V/)]  [[Code](https://github.com/djagpal02/EIDT-V)]<br>
+
 **Every Painting Awakened: A Training-free Framework for Painting-to-Animation Generation.**<br>
 *Lingyu Liu, Yaxiong Wang, Li Zhu, Zhedong Zheng.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2503.23736)] [[Project](https://painting-animation.github.io/animation/)]<br>
