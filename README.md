@@ -275,6 +275,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization.**<br>
+*Jialu Li, Shoubin Yu, Han Lin, Jaemin Cho, Jaehong Yoon, Mohit Bansal.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2504.08641)] [[Project](https://video-msg.github.io/)]  [[Code](https://github.com/jialuli-luka/Video-MSG)]<br>
+
 **EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation.**<br>
 *Diljeet Jagpal, Xi Chen, Vinay P. Namboodiri.*<br>
 CVPR 2025. [[PDF](https://arxiv.org/abs/2504.06861)] [[Project](https://djagpal02.github.io/EIDT-V/)]  [[Code](https://github.com/djagpal02/EIDT-V)]<br>
