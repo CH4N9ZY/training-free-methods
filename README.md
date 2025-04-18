@@ -218,6 +218,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Style Transfer
 
+**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation.**<br>
+*Hongbin Lin, Zilu Guo, Yifan Zhang, Shuaicheng Niu, Yafeng Li, Ruimao Zhang, Shuguang Cui, Zhen Li.*<br>
+CVPR 2025. [[PDF](https://www.arxiv.org/abs/2503.11122)] [[Code]](https://github.com/Hongbin98/DriveGEN)<br>
+
 **Free-Lunch Color-Texture Disentanglement for Stylized Image Generation.**<br>
 *Jiang Qin, Senmao Li, Alexandra Gomez-Villa, Shiqi Yang, Yaxing Wang, Kai Wang, Joost van de Weijer.*<br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2503.14275)]<br>
