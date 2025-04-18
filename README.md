@@ -140,6 +140,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing.**<br>
+*Taihang Hu, Linxuan Li, Kai Wang, Yaxing Wang, Jian Yang, Ming-Ming Cheng.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2504.10434)] [[Code]](https://github.com/hutaiHang/ATM)<br>
+
 **Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model.**<br>
 *Qi Mao, Lan Chen, Yuchao Gu, Mike Zheng Shou, Ming-Hsuan Yang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2504.05594)] [[Code]](https://github.com/CUC-MIPG/UnifyEdit)<br>
