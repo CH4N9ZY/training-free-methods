@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**FreeGraftor: Training-Free Cross-Image Feature Grafting for Subject-Driven Text-to-Image Generation.**<br>
+*Zebin Yao, Lei Ren, Huixing Jiang, Chen Wei, Xiaojie Wang, Ruifan Li, Fangxiang Feng.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2504.15958)] [[Code]](https://github.com/Nihukat/FreeGraftor)<br>
+
 **Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling.**<br>
 *Jaskirat Singh, Junshen Kevin Chen, Jonas Kohler, Michael Cohen.*<br>
 ICLR 2025. [[PDF](https://arxiv.org/abs/2504.05800)]<br>
