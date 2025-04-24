@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation.**<br>
+*Minho Park, Taewoong Kang, Jooyeol Yun, Sungwon Hwang, Jaegul Choo.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2504.14396)]  [[Project]](https://pmh9960.github.io/research/SphereDiff/) [[Code]](https://github.com/pmh9960/SphereDiff)<br>
+
 **FreeGraftor: Training-Free Cross-Image Feature Grafting for Subject-Driven Text-to-Image Generation.**<br>
 *Zebin Yao, Lei Ren, Huixing Jiang, Chen Wei, Xiaojie Wang, Ruifan Li, Fangxiang Feng.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2504.15958)] [[Code]](https://github.com/Nihukat/FreeGraftor)<br>
