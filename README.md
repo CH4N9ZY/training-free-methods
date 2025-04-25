@@ -148,6 +148,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Towards Generalized and Training-Free Text-Guided Semantic Manipulation.**<br>
+*Yu Hong, Xiao Cai, Pengpeng Zeng, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2504.17269)]<br>
+
 **Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing.**<br>
 *Taihang Hu, Linxuan Li, Kai Wang, Yaxing Wang, Jian Yang, Ming-Ming Cheng.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2504.10434)] [[Code]](https://github.com/hutaiHang/ATM)<br>
