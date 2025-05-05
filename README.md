@@ -295,6 +295,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis.**<br>
+*Jiangtong Tan, Hu Yu, Jie Huang, Jie Xiao, Feng Zhao.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2505.01172)] [[Code](https://github.com/JosephTiTan/FreePCA)]<br>
+
 **Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization.**<br>
 *Jialu Li, Shoubin Yu, Han Lin, Jaemin Cho, Jaehong Yoon, Mohit Bansal.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2504.08641)] [[Project](https://video-msg.github.io/)]  [[Code](https://github.com/jialuli-luka/Video-MSG)]<br>
