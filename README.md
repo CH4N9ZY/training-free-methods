@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion.**<br>
+*Yanyu Li, Pencheng Wan, Liang Han, Yaowei Wang, Liqiang Nie, Min Zhang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.04347)]<br>
+
 **SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation.**<br>
 *Minho Park, Taewoong Kang, Jooyeol Yun, Sungwon Hwang, Jaegul Choo.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2504.14396)]  [[Project]](https://pmh9960.github.io/research/SphereDiff/) [[Code]](https://github.com/pmh9960/SphereDiff)<br>
