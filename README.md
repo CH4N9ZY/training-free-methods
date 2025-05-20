@@ -10,7 +10,7 @@ If you find any missed resources or errors, feel free to open an issue or make a
 - [Style Transfer](#style-transfer)
 - [Material Transfer](#material-transfer)
 - [Video Generation](#video-generation)
-- [Video Editing](#video-editing)
+- [Video Manipulation](#video-manipulation)
 
 ## Image Generation
 
@@ -331,7 +331,11 @@ arxiv 2025. [[PDF](https://arxiv.org/abs/2503.14428)] [[Project](https://hong-yu
 *Teng Hu, Jiangning Zhang, Ran Yi, Yating Wang, Hongrui Huang, Jieyu Weng, Yabiao Wang, Lizhuang Ma.*<br>
 ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.com/sjtuplayer/MotionMaster)<br>
 
-## Video Editing
+## Video Manipulation
+
+**RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers.**<br>
+*Ahmet Berke Gokmen, Yigit Ekin, Bahri Batuhan Bilecen, Aysegul Dundar.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.13344)] [[Project](https://berkegokmen1.github.io/RoPECraft/)] [[Code]](https://github.com/berkegokmen1/RoPECraft)<br>
 
 **RASA: Replace Anyone, Say Anything -- A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing.**<br>
 *Tianrui Pan, Lin Liu, Jie Liu, Xiaopeng Zhang, Jie Tang, Gangshan Wu, Qi Tian.*<br>
