@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers.**<br>
+*Sucheng Ren, Qihang Yu, Ju He, Alan Yuille, Liang-Chieh Chen.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.14687)]  [[Project]](https://oliverrensu.github.io/project/GRAT/) [[Code]](https://github.com/OliverRensu/GRAT)<br>
+
 **CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion.**<br>
 *Yanyu Li, Pencheng Wan, Liang Han, Yaowei Wang, Liqiang Nie, Min Zhang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.04347)]<br>
