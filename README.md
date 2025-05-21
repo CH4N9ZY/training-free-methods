@@ -307,6 +307,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**DynamicScaler: Seamless and Scalable Video Generation for Panoramic Scenes.**<br>
+*Jinxiu Liu, Shaoheng Lin, Yinxiao Li, Ming-Hsuan Yang.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2412.11100)] [[Project](https://dynamic-scaler.pages.dev/)]  [[Code](https://github.com/sh-Lin/DynamicScaler)]<br>
+
 **FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis.**<br>
 *Jiangtong Tan, Hu Yu, Jie Huang, Jie Xiao, Feng Zhao.*<br>
 CVPR 2025. [[PDF](https://arxiv.org/abs/2505.01172)] [[Code](https://github.com/JosephTiTan/FreePCA)]<br>
