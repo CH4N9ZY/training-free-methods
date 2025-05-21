@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Training-Free Watermarking for Autoregressive Image Generation.**<br>
+*Yu Tong, Zihao Pan, Shuai Yang, Kaiyang Zhou.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.14673)] [[Code]](https://github.com/maifoundations/IndexMark)<br>
+
 **Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers.**<br>
 *Sucheng Ren, Qihang Yu, Ju He, Alan Yuille, Liang-Chieh Chen.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.14687)]  [[Project]](https://oliverrensu.github.io/project/GRAT/) [[Code]](https://github.com/OliverRensu/GRAT)<br>
