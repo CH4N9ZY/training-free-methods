@@ -307,6 +307,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**Training-Free Efficient Video Generation via Dynamic Token Carving.**<br>
+*Yuechen Zhang, Jinbo Xing, Bin Xia, Shaoteng Liu, Bohao Peng, Xin Tao, Pengfei Wan, Eric Lo, Jiaya Jia.*<br>
+arxiv 2025. [[PDF](http://arxiv.org/abs/2505.16864)] [[Project](https://julianjuaner.github.io/projects/jenga/)]  [[Code](https://github.com/dvlab-research/Jenga/)]<br>
+
 **DynamicScaler: Seamless and Scalable Video Generation for Panoramic Scenes.**<br>
 *Jinxiu Liu, Shaoheng Lin, Yinxiao Li, Ming-Hsuan Yang.*<br>
 CVPR 2025. [[PDF](https://arxiv.org/abs/2412.11100)] [[Project](https://dynamic-scaler.pages.dev/)]  [[Code](https://github.com/sh-Lin/DynamicScaler)]<br>
