@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**ExpertGen: Training-Free Expert Guidance for Controllable Text-to-Face Generation.**<br>
+*Liang Shi, Yun Fu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.17256)]<br>
+
 **Training-Free Watermarking for Autoregressive Image Generation.**<br>
 *Yu Tong, Zihao Pan, Shuai Yang, Kaiyang Zhou.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.14673)] [[Code]](https://github.com/maifoundations/IndexMark)<br>
