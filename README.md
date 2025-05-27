@@ -250,6 +250,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Style Transfer
 
+**Training-free Stylized Text-to-Image Generation with Fast Inference.**<br>
+*Xin Ma, Yaohui Wang, Xinyuan Chen, Tien-Tsin Wong, Cunjian Chen.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.19063)] [[Project](https://maxin-cn.github.io/omnipainter_project/)] [[Code]](https://github.com/maxin-cn/OmniPainter)<br>
+
 **DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation.**<br>
 *Hongbin Lin, Zilu Guo, Yifan Zhang, Shuaicheng Niu, Yafeng Li, Ruimao Zhang, Shuguang Cui, Zhen Li.*<br>
 CVPR 2025. [[PDF](https://www.arxiv.org/abs/2503.11122)] [[Code]](https://github.com/Hongbin98/DriveGEN)<br>
