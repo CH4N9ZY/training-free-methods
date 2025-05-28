@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance.**<br>
+*Aniket Roy, Maitreya Suin, Ketul Shah, Rama Chellappa.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.20525)]<br>
+
 **ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation.**<br>
 *Yohai Mazuz, Janna Bruner, Lior Wolf.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.20626)] [[Project]](https://jbruner23.github.io/consistyle/)<br>
