@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation.**<br>
+*Yohai Mazuz, Janna Bruner, Lior Wolf.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.20626)] [[Project]](https://jbruner23.github.io/consistyle/)<br>
+
 **ISAC: Training-Free Instance-to-Semantic Attention Control for Improving Multi-Instance Generation.**<br>
 *Sanghyun Jo, Wooyeol Lee, Ziseok Lee, Kyungsu Kim.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.20935)]<br>
