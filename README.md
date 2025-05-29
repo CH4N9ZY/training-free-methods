@@ -262,6 +262,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Style Transfer
 
+**Training Free Stylized Abstraction.**<br>
+*Aimon Rahman, Kartik Narayan, Vishal M. Patel.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.22663)] [[Project](https://kartik-3004.github.io/TF-SA/)] [[Code]](https://github.com/Kartik-3004/TF-SA)<br>
+
 **Training-free Stylized Text-to-Image Generation with Fast Inference.**<br>
 *Xin Ma, Yaohui Wang, Xinyuan Chen, Tien-Tsin Wong, Cunjian Chen.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.19063)] [[Project](https://maxin-cn.github.io/omnipainter_project/)] [[Code]](https://github.com/maxin-cn/OmniPainter)<br>
