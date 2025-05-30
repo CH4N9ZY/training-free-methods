@@ -335,6 +335,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**MOVi: Training-free Text-conditioned Multi-Object Video Generation.**<br>
+*Aimon Rahman, Jiang Liu, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Yusheng Su, Vishal M. Patel, Zicheng Liu, Emad Barsoum.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.22980)] [[Code](https://github.com/aimansnigdha/MOVi)]<br>
+
 **Training-Free Efficient Video Generation via Dynamic Token Carving.**<br>
 *Yuechen Zhang, Jinbo Xing, Bin Xia, Shaoteng Liu, Bohao Peng, Xin Tao, Pengfei Wan, Eric Lo, Jiaya Jia.*<br>
 arxiv 2025. [[PDF](http://arxiv.org/abs/2505.16864)] [[Project](https://julianjuaner.github.io/projects/jenga/)]  [[Code](https://github.com/dvlab-research/Jenga/)]<br>
