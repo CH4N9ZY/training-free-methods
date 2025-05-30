@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers.**<br>
+*Yusuf Dalva, Hidir Yesiltepe, Pinar Yanardag.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.23758)] [[Project]](https://lorashop.github.io/)<br>
+
 **MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance.**<br>
 *Aniket Roy, Maitreya Suin, Ketul Shah, Rama Chellappa.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.20525)]<br>
