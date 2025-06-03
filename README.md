@@ -106,6 +106,10 @@ arxiv 2025. [[PDF](https://arxiv.org/abs/2502.13855)]<br>
 *Farzad Farhadzadeh, Debasmit Das, Shubhankar Borse, Fatih Porikli.*<br>
 ICLR 2025. [[PDF](https://arxiv.org/abs/2501.16559)]<br>
 
+**Event-Customized Image Generation.**<br>
+*Zhen Wang, Yilei Jiang, Dong Zheng, Jun Xiao, Long Chen.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2410.02483)]<br>
+
 **AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation.**<br>
 *Boyuan Cao, Jiaxin Ye, Yujie Wei, Hongming Shan.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2410.06055)] [[Code]](https://github.com/kmittle/AP-LDM)<br>
