@@ -335,6 +335,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion.**<br>
+*Geunmin Hwang, Hyun-kyu Ko, Younghyun Kim, Seungryong Lee, Eunbyung Park.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2506.01454)] [[Project](https://geunminhwang.github.io/DiffuseSlide/)] [[Code](https://github.com/GeunminHwang/DiffuseSlide)]<br>
+
 **MOVi: Training-free Text-conditioned Multi-Object Video Generation.**<br>
 *Aimon Rahman, Jiang Liu, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Yusheng Su, Vishal M. Patel, Zicheng Liu, Emad Barsoum.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.22980)] [[Code](https://github.com/aimansnigdha/MOVi)]<br>
