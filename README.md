@@ -389,6 +389,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing.**<br>
+*Guangzhao Li, Yanming Yang, Chenxi Song, Chi Zhang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2506.05046)] [[Project](https://flowdirector-edit.github.io/)] [[Code]](https://github.com/guangzhaoli/FlowDirector)<br>
+
 **RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers.**<br>
 *Ahmet Berke Gokmen, Yigit Ekin, Bahri Batuhan Bilecen, Aysegul Dundar.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.13344)] [[Project](https://berkegokmen1.github.io/RoPECraft/)] [[Code]](https://github.com/berkegokmen1/RoPECraft)<br>
