@@ -270,6 +270,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Style Transfer
 
+**Training-Free Identity Preservation in Stylized Image Generation Using Diffusion Models.**<br>
+*Mohammad Ali Rezaei, Helia Hajikazem, Saeed Khanehgir, Mahdi Javanmardi.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2506.06802)]<br>
+
 **Training Free Stylized Abstraction.**<br>
 *Aimon Rahman, Kartik Narayan, Vishal M. Patel.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.22663)] [[Project](https://kartik-3004.github.io/TF-SA/)] [[Code]](https://github.com/Kartik-3004/TF-SA)<br>
