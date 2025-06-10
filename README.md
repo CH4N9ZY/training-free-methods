@@ -389,6 +389,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**TV-LiVE: Training-Free, Text-Guided Video Editing via Layer Informed Vitality Exploitation.**<br>
+*Min-Jung Kim, Dongjin Kim, Seokju Yun, Jaegul Choo.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2506.07205)] [[Project](https://emjay73.github.io/TV_LiVE/)]<br>
+
 **FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing.**<br>
 *Guangzhao Li, Yanming Yang, Chenxi Song, Chi Zhang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2506.05046)] [[Project](https://flowdirector-edit.github.io/)] [[Code]](https://github.com/guangzhaoli/FlowDirector)<br>
