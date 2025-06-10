@@ -339,6 +339,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models.**<br>
+*Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2506.07177)] [[Project](https://frame-guidance-video.github.io/)] [[Code](https://github.com/agwmon/frame-guidance)]<br>
+
 **DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion.**<br>
 *Geunmin Hwang, Hyun-kyu Ko, Younghyun Kim, Seungryong Lee, Eunbyung Park.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2506.01454)] [[Project](https://geunminhwang.github.io/DiffuseSlide/)] [[Code](https://github.com/GeunminHwang/DiffuseSlide)]<br>
