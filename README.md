@@ -397,6 +397,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**Good Noise Makes Good Edits: A Training-Free Diffusion-Based Video Editing with Image and Text Prompts.**<br>
+*Saemee Choi, Sohyun Jeong, Jaegul Choo, Jinhee Kim.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2506.12520)]<br>
+
 **TV-LiVE: Training-Free, Text-Guided Video Editing via Layer Informed Vitality Exploitation.**<br>
 *Min-Jung Kim, Dongjin Kim, Seokju Yun, Jaegul Choo.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2506.07205)] [[Project](https://emjay73.github.io/TV_LiVE/)]<br>
