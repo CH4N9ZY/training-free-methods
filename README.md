@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Control and Realism: Best of Both Worlds in Layout-to-Image without Training.**<br>
+*Bonan Li, Yinhan Hu, Songhua Liu, Xinchao Wang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2506.15563)]<br>
+
 **LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers.**<br>
 *Yusuf Dalva, Hidir Yesiltepe, Pinar Yanardag.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2505.23758)] [[Project]](https://lorashop.github.io/)<br>
