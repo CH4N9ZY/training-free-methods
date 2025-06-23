@@ -5,6 +5,7 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 
 ## 📚 Table of Contents
+<a name="top"></a>
 - [Image Generation](#image-generation)
 - [Image Manipulation](#image-manipulation)
 - [Style Transfer](#style-transfer)
@@ -186,6 +187,8 @@ WACV 2024. [[PDF](https://arxiv.org/abs/2304.03373)]  [[Project]](https://silent
 *Jinheng Xie, Yuexiang Li, Yawen Huang, Haozhe Liu, Wentian Zhang, Yefeng Zheng, Mike Zheng Shou.*<br>
 ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com/showlab/BoxDiff)<br>
 
+[🔝 Return to Top](#top)
+
 ## Image Manipulation
 
 **Towards Generalized and Training-Free Text-Guided Semantic Manipulation.**<br>
@@ -272,6 +275,8 @@ CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.07536.pdf)] [[Project](https://genf
 *Narek Tumanyan, Michal Geyer, Shai Bagon, Tali Dekel.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-diffusion.github.io/)] [[Code]](https://github.com/MichalGeyer/plug-and-play)<br>
 
+[🔝 Return to Top](#top)
+
 ## Style Transfer
 
 **Training-Free Identity Preservation in Stylized Image Generation Using Diffusion Models.**<br>
@@ -338,12 +343,15 @@ SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] [[Project](https://gari
 *Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/pdf/2312.09008.pdf)] [[Project](https://jiwoogit.github.io/StyleID_site/)] [[Code]](https://github.com/jiwoogit/StyleID)<br>
 
+[🔝 Return to Top](#top)
+
 ## Material Transfer
 
 **ZeST: Zero-Shot Material Transfer from a Single Image.**<br>
 *Ta-Ying Cheng, Prafull Sharma, Andrew Markham, Niki Trigoni, Varun Jampani.*<br>
 ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchengab.github.io/zest/)] [[Code]](https://github.com/ttchengab/zest_code)<br>
 
+[🔝 Return to Top](#top)
 
 ## Video Generation
 
@@ -399,6 +407,8 @@ arxiv 2025. [[PDF](https://arxiv.org/abs/2503.14428)] [[Project](https://hong-yu
 *Teng Hu, Jiangning Zhang, Ran Yi, Yating Wang, Hongrui Huang, Jieyu Weng, Yabiao Wang, Lizhuang Ma.*<br>
 ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.com/sjtuplayer/MotionMaster)<br>
 
+[🔝 Return to Top](#top)
+
 ## Video Manipulation
 
 **Good Noise Makes Good Edits: A Training-Free Diffusion-Based Video Editing with Image and Text Prompts.**<br>
@@ -436,3 +446,5 @@ ICLR 2024. [[PDF](https://arxiv.org/pdf/2310.05922.pdf)] [[Project](https://flat
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing.**<br>
 *Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel.*<br>
 ICLR 2024. [[PDF](https://arxiv.org/pdf/2307.10373.pdf)] [[Project](https://diffusion-tokenflow.github.io/)] [[Code]](https://github.com/omerbt/TokenFlow)<br>
+
+[🔝 Return to Top](#top)
