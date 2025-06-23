@@ -3,9 +3,8 @@ This repository collects recent training-free algorithms relevant to visual gene
 
 If you find any missed resources or errors, feel free to open an issue or make a pull request.
 
-
-## 📚 Table of Contents
 <a name="top"></a>
+## 📚 Table of Contents
 - [Image Generation](#image-generation)
 - [Image Manipulation](#image-manipulation)
 - [Style Transfer](#style-transfer)
