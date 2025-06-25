@@ -354,6 +354,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**Training-Free Motion Customization for Distilled Video Generators with Adaptive Test-Time Distillation.**<br>
+*Jintao Rong, Xin Xie, Xinyi Yu, Linlin Ou, Xinyu Zhang, Chunhua Shen, Dong Gong.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2506.19348)] [[Project](https://euminds.github.io/motionecho/)]<br>
+
 **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models.**<br>
 *Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2506.07177)] [[Project](https://frame-guidance-video.github.io/)] [[Code](https://github.com/agwmon/frame-guidance)]<br>
