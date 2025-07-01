@@ -418,6 +418,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**STR-Match: Matching SpatioTemporal Relevance Score for Training-Free Video Editing.**<br>
+*Junsung Lee, Junoh Kang, Bohyung Han.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2506.22868)] [[Project](https://jslee525.github.io/str-match/)] [[Code]](https://github.com/jslee525/STR-Match_official)<br>
+
 **Good Noise Makes Good Edits: A Training-Free Diffusion-Based Video Editing with Image and Text Prompts.**<br>
 *Saemee Choi, Sohyun Jeong, Jaegul Choo, Jinhee Kim.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2506.12520)]<br>
