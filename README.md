@@ -358,6 +358,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion.**<br>
+*Yu Lu, Yi Yang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2507.00162)] [[Project](https://freelongvideo.github.io/)] [[Code](https://github.com/aniki-ly/FreeLong)]<br>
+
 **Training-Free Motion Customization for Distilled Video Generators with Adaptive Test-Time Distillation.**<br>
 *Jintao Rong, Xin Xie, Xinyi Yu, Linlin Ou, Xinyu Zhang, Chunhua Shen, Dong Gong.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2506.19348)] [[Project](https://euminds.github.io/motionecho/)]<br>
