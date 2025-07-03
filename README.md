@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model.**<br>
+*Yukang Cao, Chenyang Si, Jinghao Wang, Ziwei Liu.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2507.01953)]  [[Project]](https://yukangcao.github.io/FreeMorph/) [[Code]](https://github.com/yukangcao/FreeMorph)<br>
+
 **HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling.**<br>
 *Tobias Vontobel, Seyedmorteza Sadat, Farnood Salehi, Romann M. Weber.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2506.20452)]<br>
