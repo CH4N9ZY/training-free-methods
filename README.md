@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation.**<br>
+*Liheng Zhang, Lexi Pang, Hang Ye, Xiaoxuan Ma, Yizhou Wang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2507.02792)]  [[Project]](https://zhang-liheng.github.io/rich-control/) [[Code]](https://github.com/zhang-liheng/RichControl)<br>
+
 **FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model.**<br>
 *Yukang Cao, Chenyang Si, Jinghao Wang, Ziwei Liu.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2507.01953)]  [[Project]](https://yukangcao.github.io/FreeMorph/) [[Code]](https://github.com/yukangcao/FreeMorph)<br>
