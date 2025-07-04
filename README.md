@@ -362,6 +362,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching.**<br>
+*Xin Zhou, Dingkang Liang, Kaijin Chen, Tianrui Feng, Xiwu Chen, Hongkai Lin, Yikang Ding, Feiyang Tan, Hengshuang Zhao, Xiang Bai.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2507.02860)] [[Project](https://h-embodvis.github.io/EasyCache/)] [[Code](https://github.com/H-EmbodVis/EasyCache)]<br>
+
 **FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion.**<br>
 *Yu Lu, Yi Yang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2507.00162)] [[Project](https://freelongvideo.github.io/)] [[Code](https://github.com/aniki-ly/FreeLong)]<br>
