@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**A Training-Free Style-Personalization via Scale-wise Autoregressive Model.**<br>
+*Kyoungmin Lee, Jihun Park, Jongmin Gim, Wonhyeok Choi, Kyumin Hwang, Jaeyeul Kim, Sunghoon Im.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2507.04482)]<br>
+
 **RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation.**<br>
 *Liheng Zhang, Lexi Pang, Hang Ye, Xiaoxuan Ma, Yizhou Wang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2507.02792)]  [[Project]](https://zhang-liheng.github.io/rich-control/) [[Code]](https://github.com/zhang-liheng/RichControl)<br>
