@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models.**<br>
+*Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, Yi-Zhe Song.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2505.21179)]  [[Project]](https://chendaryen.github.io/NAG.github.io/) [[Code]](https://github.com/ChenDarYen/Normalized-Attention-Guidance)<br>
+
 **A Training-Free Style-Personalization via Scale-wise Autoregressive Model.**<br>
 *Kyoungmin Lee, Jihun Park, Jongmin Gim, Wonhyeok Choi, Kyumin Hwang, Jaeyeul Kim, Sunghoon Im.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2507.04482)]<br>
