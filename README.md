@@ -214,6 +214,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**OmniVTON: Training-Free Universal Virtual Try-On.**<br>
+*Zhaotong Yang, Yuhui Li, Shengfeng He, Xinzhe Li, Yangyang Xu, Junyu Dong, Yong Du.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2507.15037)] [[Code]](https://github.com/Jerome-Young/OmniVTON)<br>
+
 **Towards Generalized and Training-Free Text-Guided Semantic Manipulation.**<br>
 *Yu Hong, Xiao Cai, Pengpeng Zeng, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2504.17269)]<br>
