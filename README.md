@@ -214,6 +214,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Training-free Geometric Image Editing on Diffusion Models.**<br>
+*Hanshen Zhu, Zhen Zhu, Kaile Zhang, Yiming Gong, Yuliang Liu, Xiang Bai.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2507.23300)] [[Code]](https://github.com/CIawevy/FreeFine)<br>
+
 **OmniVTON: Training-Free Universal Virtual Try-On.**<br>
 *Zhaotong Yang, Yuhui Li, Shengfeng He, Xinzhe Li, Yangyang Xu, Junyu Dong, Yong Du.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2507.15037)] [[Code]](https://github.com/Jerome-Young/OmniVTON)<br>
