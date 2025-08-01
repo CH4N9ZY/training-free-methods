@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**T2I-Copilot: A Training-Free Multi-Agent Text-to-Image System for Enhanced Prompt Interpretation and Interactive Generation.**<br>
+*Chieh-Yun Chen, Min Shi, Gong Zhang, Humphrey Shi.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2507.20536)] [[Code]](https://github.com/SHI-Labs/T2I-Copilot)<br>
+
 **FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers.**<br>
 *Yanbing Zhang, Zhe Wang, Qin Zhou, Mengping Yang.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2505.21179)] [[Code]](https://github.com/Monalissaa/FreeCus)<br>
