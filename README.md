@@ -218,6 +218,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying.**<br>
+*Chengyu Bai, Jintao Chen, Xiang Bai, Yilong Chen, Qi She, Ming Lu, Shanghang Zhang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2508.03142)]<br>
+
 **Training-free Geometric Image Editing on Diffusion Models.**<br>
 *Hanshen Zhu, Zhen Zhu, Kaile Zhang, Yiming Gong, Yuliang Liu, Xiang Bai.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2507.23300)] [[Code]](https://github.com/CIawevy/FreeFine)<br>
