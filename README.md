@@ -222,6 +222,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**CannyEdit: Selective Canny Control and Dual-Prompt Guidance for Training-Free Image Editing.**<br>
+*Weiyan Xie, Han Gao, Didan Deng, Kaican Li, April Hua Liu, Yongxiang Huang, Nevin L. Zhang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2508.06937)]  [[Project](https://vaynexie.github.io/CannyEdit/)]<br>
+
 **UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying.**<br>
 *Chengyu Bai, Jintao Chen, Xiang Bai, Yilong Chen, Qi She, Ming Lu, Shanghang Zhang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.03142)]<br>
