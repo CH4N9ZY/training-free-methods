@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**LaRender: Training-Free Occlusion Control in Image Generation via Latent Rendering.**<br>
+*Xiaohang Zhan, Dingming Liu.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2508.07647)]  [[Project]](https://xiaohangzhan.github.io/projects/larender/)<br>
+
 **T2I-Copilot: A Training-Free Multi-Agent Text-to-Image System for Enhanced Prompt Interpretation and Interactive Generation.**<br>
 *Chieh-Yun Chen, Min Shi, Gong Zhang, Humphrey Shi.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2507.20536)] [[Code]](https://github.com/SHI-Labs/T2I-Copilot)<br>
