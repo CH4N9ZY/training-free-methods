@@ -222,6 +222,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer.**<br>
+*Zixin Yin, Xili Dai, Ling-Hao Chen, Deyu Zhou, Jianan Wang, Duomin Wang, Gang Yu, Lionel M. Ni, Heung-Yeung Shum.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2508.09131)]  [[Project](https://zxyin.github.io/ColorCtrl/)]<br>
+
 **CannyEdit: Selective Canny Control and Dual-Prompt Guidance for Training-Free Image Editing.**<br>
 *Weiyan Xie, Han Gao, Didan Deng, Kaican Li, April Hua Liu, Yongxiang Huang, Nevin L. Zhang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.06937)]  [[Project](https://vaynexie.github.io/CannyEdit/)]<br>
