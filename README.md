@@ -28,7 +28,7 @@ ICCV 2025. [[PDF](https://arxiv.org/abs/2507.20536)] [[Code]](https://github.com
 
 **FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers.**<br>
 *Yanbing Zhang, Zhe Wang, Qin Zhou, Mengping Yang.*<br>
-ICCV 2025. [[PDF](https://arxiv.org/abs/2505.21179)] [[Code]](https://github.com/Monalissaa/FreeCus)<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2507.15249)] [[Code]](https://github.com/Monalissaa/FreeCus)<br>
 
 **Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models.**<br>
 *Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, Yi-Zhe Song.*<br>
