@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Story2Board: A Training-Free Approach for Expressive Storyboard Generation.**<br>
+*David Dinkevich, Matan Levy, Omri Avrahami, Dvir Samuel, Dani Lischinski.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2508.09983)]  [[Project]](https://daviddinkevich.github.io/Story2Board/) [[Code]](https://github.com/daviddinkevich/Story2Board)<br>
+
 **LaRender: Training-Free Occlusion Control in Image Generation via Latent Rendering.**<br>
 *Xiaohang Zhan, Dingming Liu.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2508.07647)]  [[Project]](https://xiaohangzhan.github.io/projects/larender/)<br>
