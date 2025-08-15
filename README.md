@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**CountCluster: Training-Free Object Quantity Guidance with Cross-Attention Map Clustering for Text-to-Image Generation.**<br>
+*Joohyeon Lee, Jin-Seop Lee, Jee-Hyong Lee.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2508.10710)] [[Code]](https://github.com/JoohyeonL22/CountCluster)<br>
+
 **Story2Board: A Training-Free Approach for Expressive Storyboard Generation.**<br>
 *David Dinkevich, Matan Levy, Omri Avrahami, Dvir Samuel, Dani Lischinski.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.09983)]  [[Project]](https://daviddinkevich.github.io/Story2Board/) [[Code]](https://github.com/daviddinkevich/Story2Board)<br>
