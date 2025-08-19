@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models.**<br>
+*Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2508.12880)]  [[Project]](https://s2guidance.github.io/) [[Code]](https://github.com/AMAP-ML/S2-Guidance)<br>
+
 **CountCluster: Training-Free Object Quantity Guidance with Cross-Attention Map Clustering for Text-to-Image Generation.**<br>
 *Joohyeon Lee, Jin-Seop Lee, Jee-Hyong Lee.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.10710)] [[Code]](https://github.com/JoohyeonL22/CountCluster)<br>
