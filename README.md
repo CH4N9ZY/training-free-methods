@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**CountLoop: Training-Free High-Instance Image Generation via Iterative Agent Guidance.**<br>
+*Anindya Mondal, Ayan Banerjee, Sauradip Nag, Josep Lladós, Xiatian Zhu, Anjan Dutta.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2508.16644)]  [[Project]](https://mondalanindya.github.io/CountLoop/) [[Code]](https://github.com/mondalanindya/CountLoop/)<br>
+
 **HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching.**<br>
 *Liang Feng, Shikang Zheng, Jiacheng Liu, Yuqi Lin, Qinming Zhou, Peiliang Cai, Xinyu Wang, Junjie Chen, Chang Zou, Yue Ma, Linfeng Zhang.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.16984)]<br>
