@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching.**<br>
+*Liang Feng, Shikang Zheng, Jiacheng Liu, Yuqi Lin, Qinming Zhou, Peiliang Cai, Xinyu Wang, Junjie Chen, Chang Zou, Yue Ma, Linfeng Zhang.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2508.16984)]<br>
+
 **S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models.**<br>
 *Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.12880)]  [[Project]](https://s2guidance.github.io/) [[Code]](https://github.com/AMAP-ML/S2-Guidance)<br>
