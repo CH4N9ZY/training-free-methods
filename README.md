@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information.**<br>
+*Guohui Zhang, Jiangtong Tan, Linjiang Huang, Zhonghang Yuan, Naishan Zheng, Jie Huang, Feng Zhao.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2509.01421)] [[Code]](https://github.com/zghhui/InfoScale)<br>
+
 **CountLoop: Training-Free High-Instance Image Generation via Iterative Agent Guidance.**<br>
 *Anindya Mondal, Ayan Banerjee, Sauradip Nag, Josep Lladós, Xiatian Zhu, Anjan Dutta.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.16644)]  [[Project]](https://mondalanindya.github.io/CountLoop/) [[Code]](https://github.com/mondalanindya/CountLoop/)<br>
