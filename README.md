@@ -430,6 +430,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement.**<br>
+*Jiayi Gao, Changcheng Hua, Qingchao Chen, Yuxin Peng, Yang Liu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2509.01362)] [[Code](https://github.com/Andyplus1/IPT2V)]<br>
+
 **Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching.**<br>
 *Xin Zhou, Dingkang Liang, Kaijin Chen, Tianrui Feng, Xiwu Chen, Hongkai Lin, Yikang Ding, Feiyang Tan, Hengshuang Zhao, Xiang Bai.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2507.02860)] [[Project](https://h-embodvis.github.io/EasyCache/)] [[Code](https://github.com/H-EmbodVis/EasyCache)]<br>
