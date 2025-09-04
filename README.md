@@ -34,6 +34,10 @@ arxiv 2025. [[PDF](https://arxiv.org/abs/2508.12880)]  [[Project]](https://s2gui
 *Joohyeon Lee, Jin-Seop Lee, Jee-Hyong Lee.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.10710)] [[Code]](https://github.com/JoohyeonL22/CountCluster)<br>
 
+**FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization.**<br>
+*Peng Zheng, Ye Wang, Rui Ma, Zuxuan Wu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2507.01792)]<br>
+
 **Story2Board: A Training-Free Approach for Expressive Storyboard Generation.**<br>
 *David Dinkevich, Matan Levy, Omri Avrahami, Dvir Samuel, Dani Lischinski.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.09983)]  [[Project]](https://daviddinkevich.github.io/Story2Board/) [[Code]](https://github.com/daviddinkevich/Story2Board)<br>
