@@ -34,6 +34,10 @@ arxiv 2025. [[PDF](https://arxiv.org/abs/2508.12880)]  [[Project]](https://s2gui
 *Joohyeon Lee, Jin-Seop Lee, Jee-Hyong Lee.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.10710)] [[Code]](https://github.com/JoohyeonL22/CountCluster)<br>
 
+**Subject or Style: Adaptive and Training-Free Mixture of LoRAs.**<br>
+*Jia-Chen Zhang, Yu-Jie Xiong.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2508.02165)] [[Code]](https://anonymous.4open.science/r/EST-LoRA-F318)<br>
+
 **FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization.**<br>
 *Peng Zheng, Ye Wang, Rui Ma, Zuxuan Wu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2507.01792)]<br>
