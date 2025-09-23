@@ -510,6 +510,10 @@ ACM MM 2024. [[PDF](https://arxiv.org/abs/2404.15789)] [[Code]](https://github.c
 
 ## Video Manipulation
 
+**ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment.**<br>
+*Yiyang Chen, Xuanhua He, Xiujun Ma, Yue Ma.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2509.17818)] [[Project](https://yychen233.github.io/ContextFlow-page/)] [[Code]](https://github.com/yyChen233/ContextFlow)<br>
+
 **STR-Match: Matching SpatioTemporal Relevance Score for Training-Free Video Editing.**<br>
 *Junsung Lee, Junoh Kang, Bohyung Han.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2506.22868)] [[Project](https://jslee525.github.io/str-match/)] [[Code]](https://github.com/jslee525/STR-Match_official)<br>
