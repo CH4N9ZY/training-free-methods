@@ -362,6 +362,10 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2211.12572.pdf)] [[Project](https://pnp-
 
 ## Style Transfer
 
+**Training-Free Multi-Style Fusion Through Reference-Based Adaptive Modulation.**<br>
+*Xu Liu, Yibo Lu, Xinxian Wang, Xinyu Wu.*<br>
+ACPR 2025. [[PDF](https://arxiv.org/abs/2509.18602)]<br>
+
 **Training-Free Identity Preservation in Stylized Image Generation Using Diffusion Models.**<br>
 *Mohammad Ali Rezaei, Helia Hajikazem, Saeed Khanehgir, Mahdi Javanmardi.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2506.06802)]<br>
