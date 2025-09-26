@@ -254,6 +254,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**FreeInsert: Personalized Object Insertion with Geometric and Style Control.**<br>
+*Yuhong Zhang, Han Wang, Yiwen Wang, Rong Xie, Li Song.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2509.20756)]<br>
+
 **Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer.**<br>
 *Zixin Yin, Xili Dai, Ling-Hao Chen, Deyu Zhou, Jianan Wang, Duomin Wang, Gang Yu, Lionel M. Ni, Heung-Yeung Shum.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2508.09131)]  [[Project](https://zxyin.github.io/ColorCtrl/)]<br>
