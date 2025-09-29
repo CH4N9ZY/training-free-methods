@@ -454,6 +454,10 @@ ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.06425)] [[Project](https://ttchenga
 
 ## Video Generation
 
+**DiTraj: training-free trajectory control for video diffusion transformer.**<br>
+*Cheng Lei, Jiayu Zhang, Yue Ma, Xinyu Wang, Long Chen, Liang Tang, Yiqiang Yan, Fei Su, Zhicheng Zhao.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2509.21839)] <br>
+
 **Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement.**<br>
 *Jiayi Gao, Changcheng Hua, Qingchao Chen, Yuxin Peng, Yang Liu.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2509.01362)] [[Code](https://github.com/Andyplus1/IPT2V)]<br>
