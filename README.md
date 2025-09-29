@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**SemanticControl: A Training-Free Approach for Handling Loosely Aligned Visual Conditions in ControlNet.**<br>
+*Woosung Joung, Daewon Chae, Jinkyu Kim.*<br>
+BMVC 2025. [[PDF](https://arxiv.org/abs/2509.21938)]  [[Project]](https://mung3477.github.io/semantic-control/) [[Code]](https://github.com/mung3477/SemanticControl)<br>
+
 **Training-Free Synthetic Data Generation with Dual IP-Adapter Guidance.**<br>
 *Luc Boudier, Loris Manganelli, Eleftherios Tsonis, Nicolas Dufour, Vicky Kalogeiton.*<br>
 BMVC 2025. [[PDF](https://arxiv.org/abs/2509.22635)]  [[Project]](https://www.lix.polytechnique.fr/vista/projects/2025_bmvc_dipsy/) <br>
