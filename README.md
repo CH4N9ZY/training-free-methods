@@ -14,6 +14,10 @@ If you find any missed resources or errors, feel free to open an issue or make a
 
 ## Image Generation
 
+**Training-Free Synthetic Data Generation with Dual IP-Adapter Guidance.**<br>
+*Luc Boudier, Loris Manganelli, Eleftherios Tsonis, Nicolas Dufour, Vicky Kalogeiton.*<br>
+BMVC 2025. [[PDF](https://arxiv.org/abs/2509.22635)]  [[Project]](https://www.lix.polytechnique.fr/vista/projects/2025_bmvc_dipsy/) <br>
+
 **InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information.**<br>
 *Guohui Zhang, Jiangtong Tan, Linjiang Huang, Zhonghang Yuan, Naishan Zheng, Jie Huang, Feng Zhao.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2509.01421)] [[Code]](https://github.com/zghhui/InfoScale)<br>
