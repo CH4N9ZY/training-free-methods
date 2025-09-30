@@ -262,6 +262,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)] [[Code]](https://github.com
 
 ## Image Manipulation
 
+**Token Painter: Training-Free Text-Guided Image Inpainting via Mask Autoregressive Models.**<br>
+*Longtao Jiang, Mingfei Han, Lei Chen, Yongqiang Yu, Feng Zhao, Xiaojun Chang, Zhihui Li.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2509.23919)]<br>
+
 **FreeInsert: Personalized Object Insertion with Geometric and Style Control.**<br>
 *Yuhong Zhang, Han Wang, Yiwen Wang, Rong Xie, Li Song.*<br>
 arxiv 2025. [[PDF](https://arxiv.org/abs/2509.20756)]<br>
